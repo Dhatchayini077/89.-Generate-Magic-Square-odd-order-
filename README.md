@@ -1,0 +1,1 @@
+# 89.-Generate-Magic-Square-odd-order-
